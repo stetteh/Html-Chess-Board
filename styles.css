@@ -1,0 +1,21 @@
+.chessboard {
+    width:600px;
+    height: 600px; 
+    margin-left: 200px;
+    border: 20px solid green;
+    text-align: center;
+}
+.grey {
+    float: left;
+    width: 75px;
+    height: 75px;
+    background-color: grey;
+    font-size: 50px;
+}
+.white {
+    float: left;
+    width: 75px;
+    height: 75px;
+    background-color: white;
+    font-size: 50px; 
+}
